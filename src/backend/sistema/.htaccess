@@ -1,0 +1,10 @@
+Options -Indexes
+RewriteEngine On
+RewriteRule ^$ /rpc/admin.cgi
+RewriteRule ^admin/?$ /admin.cgi [R]
+RewriteRule ^user/?$ /user.cgi [R]
+RewriteRule ^staff/?$ /staff.cgi [R]
+RewriteRule ^hd/?$ /staff.cgi [R]
+
+#Listeners
+RewriteRule ^Listeners/(.*)$ /Listeners.cgi?module=$1 [QSA]
