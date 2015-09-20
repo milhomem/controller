@@ -1,0 +1,23 @@
+Foi efetuado um pagamento.<br>
+<br>
+Dados do Usuario: <a href={linkuser}>{user}</a><br>
+-----------------------------------------------<br>
+Nome: {nome}<br>
+CPF: {cpf}<br>
+Endereço: {endereco}<br>
+Número: {numero}<br>
+Cidade: {cidade}<br>
+Estado: {estado}<br>
+Razão: {empresa}<br>
+CNPJ: {cnpj}<br>
+CEP: {cep}<br>
+Fatura: <a href={linkinv}>{invoice}</a><br>
+Valor: {v_invoice}<br>
+-----------------------------------------------
+
+
+
+
+
+
+

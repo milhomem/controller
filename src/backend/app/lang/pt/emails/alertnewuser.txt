@@ -1,0 +1,27 @@
+<b>{IP_SOLICITANTE}</b><br>
+Um novo usuário foi cadastrado no sistema e precisa de ativação.<br>
+<br>
+Dados do Usuario: <a href={linkuser}>{user}</a><br>
+-----------------------------------------------<br>
+Nome: {nome}<br>
+Email: {email}<br>
+CPF: {cpf}<br>
+Razão: {razao}<br>
+CNPJ: {cnpj}<br>
+Endereço: {endereco}, {endereco2}<br>
+Telefone: {telefone}<br>
+Cidade: {cidade}<br>
+Estado: {estado}<br>
+País: {pais}<br>
+CEP: {cep}<br>
+Outros:<br>
+{obs}<br>
+{alert}<br>
+-----------------------------------------------<br>
+<a href={linkativ}>Clique aqui parar ver usuários que aguardam validação.</a>
+
+
+
+
+
+

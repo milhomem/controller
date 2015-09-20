@@ -1,0 +1,23 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta content="MSHTML 6.00.6000.16481" name="GENERATOR"></head><body bgcolor="#ffffff">
+<meta content="MSHTML 6.00.2900.2963" name="GENERATOR">
+<div><font size="2"><font face="Verdana">[header]</font></font><br><font size="2"><font face="Verdana"><strong>Prezado(a)
+Sr(a).</strong><br><br>Ocorreu um erro no recebimento da mensagem e a mesma não
+foi processada, este erro pode ocorrer por dois motivos:<br><br></font></font></div>
+<div> </div>
+<div><font size="2"><font face="Verdana"><strong>1. O endereço de e-mail remetente
+não existe ou é invalido.<br>2. A mensagem foi enviada a mais de um
+remetente.<br><br></strong></font></font></div>
+<div> </div>
+<div><font size="2"><font face="Verdana">Por favor verifique se o problema é
+referente a um dos descritos acima e tente novamente, caso o problema persista
+entre em contato com nossa central de atendimento.<br><br></font></font></div>
+<div> </div>
+<div><span style="font-size: 10pt; font-family: 'Verdana','sans-serif';"><strong>OBS:
+este é um e-mail automático enviado pelo nosso sistema, por favor não
+responda.<br><br></strong></span></div>
+<div> </div>
+<div><font size="2"><font face="Verdana">Atenciosamente,<br>[footer]<br></font></font></div></body></html>
+

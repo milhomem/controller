@@ -1,0 +1,13 @@
+Um novo serviço foi cadastrado no sistema e precisa de ativação.<br>
+-----------------------------------------------<br>
+Usuário: {user}<br>
+Domínio: {dominio}<br>
+Plano: {plano}<br>
+Pagamento: {prazo}<br>
+Grátis: {dias} dias<br>
+Taxa de Setup: {setup}<br>
+Desconto: {desconto}<br>
+<br>
+Obs:<br>
+{obs}<br>
+-----------------------------------------------<br>

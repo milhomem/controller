@@ -1,0 +1,40 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta content="MSHTML 6.00.6000.16481" name="GENERATOR"></head><body bgcolor="#ffffff">
+<meta content="MSHTML 6.00.6000.16441" name="GENERATOR">
+<style></style>
+
+<div>
+<meta content="MSHTML 6.00.2900.2963" name="GENERATOR">
+<meta content="MSHTML 6.00.2900.2802" name="GENERATOR">
+<style></style>
+</div>
+<div>
+<div><font size="2"><font face="Verdana"><font face="Verdana"><font face="Verdana" size="2">[header]</font></font></font></font><br><font face="Verdana" size="2"><strong>Prezado(a) Sr(a)
+{name},</strong></font></div><font face="Verdana" size="2"><font size="2">
+</font></font><div><font face="Verdana" size="2"><font size="2"><br>Seu ticket foi respondido por {tech}.
+</font></font><div><font face="Verdana" size="2"><font size="2"> </font></font></div>
+<div><font face="Verdana" size="2"><font size="2"><font size="2"><font face="Verdana">Caso necessite responder, envie sua
+resposta pelo próprio sistema ou responda a este e-mail sem modificar o
+assunto.<br><br></font></font></font></font></div>
+<div><font face="Verdana" size="2"><font size="2"> </font></font></div>
+<div><font face="Verdana" size="2"><font size="2"><font size="2"><font face="Verdana" size="2"><strong>Detalhes do
+Ticket</strong></font></font></font></font></div>
+<div>
+<div><font face="Verdana" size="2"><font size="2"><font face="Verdana"><strong></strong><strong></strong></font> </font></font></div>
+<div><font face="Verdana" size="2"><font size="2"><font face="Verdana" size="2">Resposta de: {tech}</font></font></font></div>
+<div><font face="Verdana" size="2"><font size="2"><font face="Verdana" size="2">Horário: {time}</font></font></font></div>
+<div><font face="Verdana" size="2"><font size="2"> </font></font></div>
+<div><font face="Verdana" size="2"><font size="2"><font face="Verdana" size="2"><strong>Resposta:</strong></font></font></font></div>
+<div><font face="Verdana" size="2"><font size="2"><font face="Verdana" size="2">{response}<br><br></font></font></font></div>
+<div><font face="Verdana" size="2"><font size="2"><font size="2">
+</font></font></font><div><font face="Verdana" size="2"><font size="2"><font size="2"> </font></font></font></div>
+<div>
+<div><font face="Verdana" size="2"><font size="2"><font size="2"><font face="Verdana"><font size="2">Para visualizar este ticket, acesse a
+opção "HELPDESK" da <strong>Área de Clientes </strong></font><font size="2">e
+clique no ID referente.<br><br></font></font></font></font></font></div>
+<div><font face="Verdana" size="2"><font size="2"> </font></font></div></div></div></div></div>
+<div><font size="2"><font face="Verdana"><font face="Verdana"><font face="Verdana" size="2">Atenciosamente,<br>Departamento {depto}<br>[footer]<br></font></font></font></font></div>
+</div></body></html>
+

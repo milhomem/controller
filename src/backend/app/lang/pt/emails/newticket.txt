@@ -1,0 +1,25 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta content="MSHTML 6.00.6000.16525" name="GENERATOR"></head><body bgcolor="#ffffff"><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta content="MSHTML 6.00.2900.2627" name="GENERATOR"><meta content="MSHTML 6.00.2900.2627" name="GENERATOR"><style></style><meta content="MSHTML 6.00.2900.2627" name="GENERATOR">
+<div><font size="2"><font face="Verdana"><font size="2">[header]</font></font></font><br><font size="2"><font face="Verdana"><strong>Prezado(a) Sr(a). 
+{name}</strong><br><br>Seu ticket foi registrado no sistema com sucesso, assim 
+que obtiver uma resposta, um e-mail será enviado para sua conta 
+cadastrada.<br><br></font></font></div>
+<div> </div>
+<div><font size="2"><font face="Verdana" size="2"><strong>Detalhes do 
+Ticket<br><br></strong></font></font></div>
+<div>
+<div><font face="Verdana"><strong></strong><strong></strong></font> </div>
+<div><font face="Verdana" size="2"><strong>ID: {tid}</strong></font></div>
+<div><font face="Verdana" size="2">Assunto: {tassunto}</font></div>
+<div><font face="Verdana" size="2">Departamento: {tdepartamento}</font></div>
+<div><font size="2">
+</font><div><font size="2"> </font></div>
+<div>
+<div><font size="2"><font face="Verdana"><font size="2">Para visualizar este ticket, acesse a 
+opção "HELPDESK" da <strong>Área de Clientes </strong></font><font size="2">e 
+clique no ID referente.<br><br>[footer]<br> </font></font></font></div>
+<div><font size="2"> </font></div></div></div></div>
+</body></html>
+

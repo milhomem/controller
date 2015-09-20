@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta content="MSHTML 6.00.6000.16481" name="GENERATOR"></head><body bgcolor="#ffffff">
+<meta content="MSHTML 6.00.6000.16397" name="GENERATOR"><meta content="MSHTML 6.00.2900.2963" name="GENERATOR">
+
+<style></style>
+
+<div>[header]<br><font face="Verdana" size="2"><strong>Seja bem vindo!</strong><br> <br></font><font face="Verdana"><font size="2"><span class="778332915-27062005">O seu cadastro foi deferido com sucesso. Você já pode
+logar em nosso sistema utilizando o usuário/senha que você escolheu ao criar a
+conta.<br><br></span></font></font></div>
+<div><font face="Verdana"><font size="2"><span class="778332915-27062005"></span></font></font> </div>
+<div><div><font face="Verdana" size="2"><font face="Verdana" size="2">URL para login clientes: <a href="http://url/sistema/user.cgi?skin=old">http://url/sistema/user.cgi?skin=old</a><br><br></font></font></div><font face="Verdana" size="2"><font face="Verdana" size="2">
+</font></font></div>
+<div><font face="Verdana" size="2"><font size="-0"><font face="Verdana"><font size="2"><strong><span><span class="778332915-27062005"></span></span></strong></font></font></font> </font></div>
+<div><font face="Verdana" size="2"><font face="Verdana" size="2"><strong>Área de Clientes</strong></font></font></div>
+<div><font face="Verdana" size="2"> </font></div>
+<div><font face="Verdana" size="2"><font face="Verdana" size="2">A Área de Clientes é um sistema automatizado
+de utilização dos clientes, nele você poderá solicitar quaisquer serviços
+relacionados, verificar os status dos serviços contratados, alterar os dados
+cadastrais, verificar os pagamentos pendentes, e uma infinidade de
+tarefas.</font></font></div>
+<div><font face="Verdana" size="2"> </font></div>
+<div><font face="Verdana" size="2"><font face="Verdana" size="2">Quaisquer dúvidas em relação a utilização da Área
+de Clientes podem ser esclarecidas no manual de utilização encontrado no
+próprio sistema.<br><br></font></font></div>
+<div><font face="Verdana" size="2"> </font></div>
+<div><font face="Verdana" size="2"><font face="Verdana" size="2"><strong><font color="#ff0000">ATENÇÃO:<br></font></strong><font color="#ff0000">Recebendo o acesso à Área de Clientes não significa que o <strong>SERVIÇO</strong> está
+disponível, você deverá aguardar até o recebimento do e-mail
+informando os dados para utilização.<br></font> <br>Qualquer dúvida ou
+informação, por favor entre em contato com o nosso Departamento
+Comercial.<br><br></font></font></div>
+<div><font face="Verdana" size="2"> </font></div>
+<div><span style="font-size: 10pt; font-family: 'Verdana','sans-serif';"><font face="Verdana" size="2"><strong>OBS:
+este é um e-mail automático enviado pelo nosso sistema, por favor não
+responda.<br><br></strong></font></span></div>
+<div>
+<div>
+<div>
+<div><font face="Verdana" size="2"> </font></div>
+<div><font face="Verdana" size="2"><font face="Verdana" size="2">Atenciosamente,<br>Departamento de
+Contas</font></font></div>[footer]<br></div></div></div></body></html>
+

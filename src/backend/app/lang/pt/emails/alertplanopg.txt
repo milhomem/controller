@@ -1,0 +1,5 @@
+Foi efetuado um pagamento para o {dominio} com plano em alerta.<br>
+<br>
+-----------------------------------------------<br>
+Serviço: {sid}<br>
+-----------------------------------------------

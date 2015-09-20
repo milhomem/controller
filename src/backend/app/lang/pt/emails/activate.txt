@@ -1,0 +1,8 @@
+Content-Type: text/plain
+Prezado(a) Sr(a). {cname}
+
+Obrigado por se cadastrar na Àrea de Clietnes. Para você utilizar nosso sistema de tickets será necessário ativar sua conta clicando no link abaixo.
+
+{link}
+
+Atenciosamente,

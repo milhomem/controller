@@ -1,0 +1,5 @@
+Foi efetuado um pagamento de renovação do dominio {dominio}.<br>
+<br>
+-----------------------------------------------<br>
+Serviço: {sid}<br>
+-----------------------------------------------
