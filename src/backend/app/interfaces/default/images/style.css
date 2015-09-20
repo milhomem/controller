@@ -1,0 +1,97 @@
+td		{ font-family: Verdana, Arial, Helvetica, sans-serif }
+
+
+
+
+/*
+ STAFF ARE TABLE COLORS
+*/
+
+TD.stafftab {
+	FONT-SIZE: 12px; COLOR: #000000; BACKGROUND-COLOR: #93A6BF
+}
+
+TR.stafftab {
+	FONT-SIZE: 12px; COLOR: #000000; BACKGROUND-COLOR: #93A6BF
+}
+
+TD.staffbox {
+	FONT-SIZE: 12px; COLOR: #000000; BACKGROUND-COLOR: #E2E0ED
+}
+
+TR.staffresponse {
+	FONT-SIZE: 12px; COLOR: #000000; BACKGROUND-COLOR: #E4E4ED
+}
+
+
+TR.staffaction {
+	FONT-SIZE: 12px; COLOR: #000000; BACKGROUND-COLOR: #eeeeee
+}
+
+TD.toptab {
+	FONT-SIZE: 12px; COLOR: #000000; BACKGROUND-COLOR: #93A6BF
+}
+
+TR.toptab {
+	FONT-SIZE: 12px; COLOR: #000000; BACKGROUND-COLOR: #93A6BF
+}
+
+
+TR.userresponse {
+	FONT-SIZE: 12px; COLOR: #000000; BACKGROUND-COLOR: #F2F0F9
+}
+
+
+/*
+ ADMIN TABLE COLORS
+*/
+
+TR.admintab {
+	FONT-SIZE: 12px; COLOR: #000000; BACKGROUND-COLOR: #C4C1DB
+}
+
+TD.admintab {
+	FONT-SIZE: 12px; COLOR: #000000; BACKGROUND-COLOR: #C4C1DB
+}
+
+/*
+ CLIENT AREA TABLE COLORS
+*/
+
+
+TR.userresponse {
+	FONT-SIZE: 12px; COLOR: #000000; BACKGROUND-COLOR: #FAFAFA
+}
+
+TD.userresponse {
+	FONT-SIZE: 12px; COLOR: #000000; BACKGROUND-COLOR: #FAFAFA
+}
+
+TR.userstaffresponse {
+	FONT-SIZE: 12px; COLOR: #000000; BACKGROUND-COLOR: #EFEFEF
+}
+
+TD.userstaffresponse {
+	FONT-SIZE: 12px; COLOR: #000000; BACKGROUND-COLOR: #EFEFEF
+}
+
+
+
+TR.userstaffaction {
+	FONT-SIZE: 12px; COLOR: #000000; BACKGROUND-COLOR: #eeeeee
+}
+
+TD.userstaffaction {
+	FONT-SIZE: 12px; COLOR: #000000; BACKGROUND-COLOR: #eeeeee
+}
+
+TR.usertab {
+	FONT-SIZE: 12px; COLOR: #000000; BACKGROUND-COLOR: #C4CDDB
+}
+
+TD.usertab {
+	FONT-SIZE: 12px; COLOR: #000000; BACKGROUND-COLOR: #C4CDDB
+}
+
+
+
