@@ -1,0 +1,4 @@
+Bem-vindo a [Empresa],
+seus dados foram aprovados,
+siga as instrucoes enviadas
+para seu e-mail.

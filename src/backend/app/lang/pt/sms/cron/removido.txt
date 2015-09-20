@@ -1,0 +1,11 @@
+A Empresa informa que o processo 
+de remoção do serviço {servn} informado abaixo 
+foi executado pelo sistema devido 
+ao não pagamento da fatura {invoice}. 
+Para a reativação do serviço
+efetue o pagamento do boleto e envie o 
+comprovante para o e-mail dept. financeiro 
+que a conta será recriada sem os arquivos salvos anteriormente
+Para a restauração do ultimo backup salvo no servidor, 
+entre em contato com o suporte, 
+será cobrada uma taxa que poderá variar de acordo com a conta.

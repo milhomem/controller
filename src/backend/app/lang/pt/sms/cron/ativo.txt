@@ -1,0 +1,19 @@
+Prezado(a) Sr(a). {name}
+
+A Empresa vem por meio desta informar que o processo de reativação do serviço {servn} informado abaixo foi executado pelo sistema com sucesso. 
+
+
+
+Dados do Serviço
+
+
+
+
+
+ID: {servn}
+
+Domínio: {dominio}
+
+Serviço: {serv}
+
+Vencimento: {vencserv}

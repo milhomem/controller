@@ -1,0 +1,18 @@
+Seja bem vindo!
+
+Painel de Revenda
+
+Como lhe explicamos anteriormente você terá acesso ao WHM, o painel de revenda para você criar e controlar os domínios dos seus clientes. Para acessar este painel, utilize as informações abaixo:
+
+URL: http://www.{servidor}/whm ou http://www.{dominio}/whm
+Login: {user} 
+Senha: {pass} 
+
+
+Cpanel para domínios
+
+Cada domíno hospedado por você (inclusive o seu domínio principal) terá um painel de controle próprio, onde se poderá criar e gerenciar contas de e-mail, bancos de dados, scripts pré-instalados, etc. Para acessar este painel, utilize:
+
+URL: http://www.{servidor}/cpanel ou http://www.{dominio}/cpanel
+Login: login que você escolheu para o dominio
+senha: senha que você escolheu para o domini

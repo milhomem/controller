@@ -1,0 +1,29 @@
+Prezado(a) Sr(a). {name}
+
+A Empresa vem por meio desta informar que o serviço informado abaixo estará em processo de {processo} ({descricao}) em {prazo} devido ao não pagamento da fatura de número {id}.
+
+
+
+Para evitar a execução deste processo, efetue o pagamento do boleto e em seguida envie o comprovante para o dept. financeiro.
+
+No caso se o serviço não for mais utilizado, pedimos que entre em contato com o depto. financeiro solicitando o cancelamento.
+
+
+
+!!ATENÇÃO!!: O pagamento do deve ser efetuado pelo menos 48h úteis antes do vencimento, visto que 1 dia após vencido, o dominio sai do ar automaticamente (bloqueio feito diretamente pelo órgão controlador).
+
+
+
+
+
+Dados do Serviço
+
+
+
+ID: {servn}
+
+Domínio: {dom}
+
+Serviço: {serv}
+
+Fatura para pagamento: {id}

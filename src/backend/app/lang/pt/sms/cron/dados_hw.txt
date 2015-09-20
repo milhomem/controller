@@ -1,0 +1,14 @@
+Seja bem vindo!
+
+#####################################
+domínio: {dominio}
+Servidor: {MultiWEB}.seusite.com
+Usuário: {user}
+
+Senha: {pass}
+#####################################
+* Acesso via ftp:
+
+ftp.{dominio} ou {MultiFTP}.seusite.com
+login: {ftp}
+senha: {pass}

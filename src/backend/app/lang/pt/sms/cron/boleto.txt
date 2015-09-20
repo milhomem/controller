@@ -1,0 +1,5 @@
+A fatura de numero {id} foi gerada e ja pode ser paga
+Valor: {valor}
+Vencimento : {venc}
+{referencia}
+Linha digitavel: {linhadigitavel}

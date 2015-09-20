@@ -1,0 +1,15 @@
+Seja bem vindo!
+
+Dados do seu Domínio Principal
+
+Domínio: {dominio}
+Login: {user}
+Senha: {pass}
+E-Mail Padrão: {mailp}
+Servidor POP: mail.{dominio}
+Servidor SMTP: mail.{dominio} 
+
+Acesso via ftp:
+ftp.{dominio} ou ftp2.{servidor}
+login: {ftp}
+senha: {pass}

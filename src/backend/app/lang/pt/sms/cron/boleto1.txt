@@ -1,0 +1,6 @@
+Lembrar que a fatura de número {id} está vencendo hoje.
+Desconsidere se já tenha sido paga
+Fatura: {id}
+Valor: {valor}
+Vencimento: {venc}
+Linha digitavel: {linhadigitavel}

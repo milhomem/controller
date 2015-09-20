@@ -1,0 +1,6 @@
+A Empresa informa alteracao de plano executada com sucesso
+Dados Atuais do Servico
+ID: {servn}
+Domínio: {dominio}
+Plano Contratado: {serv}
+Valor: {preco}

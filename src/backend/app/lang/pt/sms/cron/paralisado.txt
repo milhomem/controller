@@ -1,0 +1,23 @@
+Prezado(a) Sr(a). {name}
+
+A Empresa vem por meio desta informar que o processo de bloqueio parcial do serviço {servn} informado abaixo foi executado pelo sistema devido ao não pagamento da fatura {invoice}. 
+
+
+
+Para a reativação do serviço, efetue o pagamento do boleto e em seguida envie o comprovante para o dept. financeiro.
+
+
+
+
+
+Dados do Serviço
+
+
+
+ID: {servn}
+
+Domínio: {dominio}
+
+Serviço: {serv}
+
+Fatura para pagamento: {invoice}
