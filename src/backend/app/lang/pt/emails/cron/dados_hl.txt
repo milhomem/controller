@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta content="MSHTML 6.00.6000.16481" name="GENERATOR"></head><body bgcolor="#ffffff">
+<meta content="MSHTML 6.00.6000.16441" name="GENERATOR"><meta content="MSHTML 6.00.2900.2963" name="GENERATOR">
+
+<meta content="MSHTML 6.00.2900.2802" name="GENERATOR">
+<div>[header]<br><font size="2"><font face="Verdana"><font face="Verdana" size="2"><strong>Seja bem
+vindo!<br></strong> </font><font face="Verdana" size="2"><br>Para que você entenda melhor como
+funciona o nosso sistema de hospedagem leia as instruções
+abaixo: </font></font></font></div>
+<div>
+<div><font size="2"><font face="Verdana"> </font></font></div>
+<div><font size="2"><font face="Verdana"><font face="Verdana" size="2">##################################<br>domínio:
+{dominio}<br>servidor: {MultiWEB}.sitehosp.ext<br>
+</font></font></font><div><font size="2"><font face="Verdana"><font face="Verdana" size="2"><font face="Verdana" size="2">usuário: {user}</font></font></font></font></div>
+<div><font size="2"><font face="Verdana"><font face="Verdana" size="2"><font face="Verdana" size="2">senha:
+{pass}</font><br>##################################<br> <br>Caso não tenha
+registrado o domínio conosco, você deve alterar os DNS do domínio {dominio}
+junto ao órgão de registro utilizado para:<br> <br>{Hns1}.</font></font></font><font size="2"><font face="Verdana"><font face="Verdana" size="2">sitehosp.ext</font></font></font><font size="2"><font face="Verdana"><font face="Verdana" size="2">
+- {ns1} <br>{Hns2}.</font></font></font><font size="2"><font face="Verdana"><font face="Verdana" size="2">sitehosp.ext</font></font></font><font size="2"><font face="Verdana"><font face="Verdana" size="2"> - {ns2} <br> <br>Seu e-mail padrão é:
+{mailp}<br>Usuário: {user}</font></font></font></div>
+<div><font size="2"><font face="Verdana"><font face="Verdana" size="2">Senha: {pass}<br>Servidor POP: mail.{dominio}<br>Servidor SMTP:
+mail.{dominio}<br> <br>* Acesso via ftp:<br> <a href="ftp://ftp.{dominio}">ftp.{dominio}</a> ou <a href="ftp://{MultiFTP}.sitehospedagem.ext">{MultiFTP}.</a></font></font></font><a href="ftp://{MultiFTP}.sitehosp.ext"><font size="2"><font face="Verdana"><font face="Verdana" size="2">sitehosp.ext</font></font></font></a><font size="2"><font face="Verdana"><font face="Verdana" size="2"><br>
+</font></font></font><div><font size="2"><font face="Verdana"><font face="Verdana" size="2"><font face="Verdana"> Usuário: {user}</font></font></font></font></div>
+<div><font size="2"><font face="Verdana"><font face="Verdana" size="2"><font face="Verdana"> Senha: {pass}<br><br></font></font></font></font></div>
+<div><font size="2"><font face="Verdana"><font face="Verdana" size="2"><font face="Verdana"><font color="#ff0000"> * os arquivos devem ser
+enviados para dentro da pasta "public_html".</font></font><br> <br>*
+WebMail - <a href="http://www.{dominio}/webmail">www.{dominio}/webmail</a> ou <a href="http://{MultiWEB}.sitehospedagem.ext/webmail">http://{MultiWEB}.</a></font></font></font><a href="http://{MultiWEB}.sitehospedagem.ext/webmail"><font size="2"><font face="Verdana"><font face="Verdana" size="2">sitehosp.ext</font></font></font></a><font size="2"><font face="Verdana"><font face="Verdana" size="2"><a href="http://{MultiWEB}.sitehospedagem.ext/webmail">/webmail</a>
+(você tem 3 softwares de Webmail disponíveis)<br> <br></font><font face="Verdana" size="2">* Para acessar nosso Painel de Controle:<br> <a href="http://{dominio}/cpanel">http://{dominio}/cpanel</a> ou <a href="http://{MultiWEB}.sitehospedagem.ext/cpanel">http://{MultiWEB}.</a></font></font></font><a href="http://{MultiWEB}.sitehospedagem.ext/cpanel"><font size="2"><font face="Verdana"><font face="Verdana" size="2">sitehosp.ext</font></font></font></a><font size="2"><font face="Verdana"><font face="Verdana" size="2"><a href="http://{MultiWEB}.sitehospedagem.ext/cpanel">/cpanel</a><br> <br>*
+HelpDesk - Dúvidas ou problemas devem ser enviadas através de nosso HelpDesk na
+Área de Clientes<br></font></font></font></div><div><font size="2"><font face="Verdana"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><br>Qualquer dúvida ou informação, sinta-se a vontade em
+contatar-nos!</font></font></font></font></font></font></div>
+<div><font size="2"><font face="Verdana"><font face="Verdana" size="2"> </font></font></font></div>
+<div><font size="2"><font face="Verdana"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><span style="font-size: 10pt; font-family: 'Verdana','sans-serif';"><strong><br>OBS:
+este é um e-mail automático enviado pelo nosso sistema, por favor não
+responda.</strong></span></font></font></font></font></font></div>
+<div>
+<div><font size="2"><font face="Verdana"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"> </font></font></font></font></font></div>
+<div>
+<div>
+<div>
+<div><font size="2"><font face="Verdana"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><br>Atenciosamente,<br>Departamento de
+Contas</font></font></font></font></font></font></div>
+<div><font size="2"><font face="Verdana"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"> </font></font></font></font></font></div>[footer]<br></div></div></div></div></div></div></div></body></html>
+

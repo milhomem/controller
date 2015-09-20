@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta content="MSHTML 6.00.6000.16481" name="GENERATOR"></head><body bgcolor="#ffffff">
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1"><meta content="MSHTML 6.00.6000.16481" name="GENERATOR"><meta content="MSHTML 6.00.6000.16441" name="GENERATOR"><meta content="MSHTML 6.00.2900.2963" name="GENERATOR">
+
+
+
+<meta content="MSHTML 6.00.2900.2802" name="GENERATOR">
+<div><font face="Verdana"><font face="Arial"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2">[header]</font></font></font></font></font><br><font face="Verdana"><font face="Arial"><font face="Verdana"><font face="Verdana" size="2"><strong>Seja bem vindo!</strong></font></font></font></font></div>
+<div>
+<div><font face="Verdana"> </font></div>
+<div><font face="Verdana"><font face="Arial"><font face="Verdana" size="2"><br>Nós trabalhamos para lhe 
+oferecer o melhor serviço de hospedagem, prezamos pela qualidade dos serviços e 
+suporte, portanto pode contar conosco para qualquer dúvida que você 
+tiver.<br>Para que você entenda melhor como funciona o nosso sistema de 
+hospedagem leia as instruções abaixo: 
+<br> <br>#####################################<br>domínio: 
+{dominio}<br>Servidor: {MultiWEB}.seusite.com<br></font>
+</font></font><div><font face="Verdana"><font face="Arial"><font face="Verdana" size="2">Usuário: {user}</font></font></font></div>
+<div><font face="Verdana"><font face="Arial"><font face="Verdana" size="2">Senha: 
+{pass}<br>#####################################<br> <br>Caso não tenha 
+registrado o domínio conosco, você deve alterar os DNS do domínio {dominio} 
+junto ao órgão de registro utilizado para:</font></font></font></div></div>
+<div>
+<div>
+<div><font face="Verdana"><font face="Arial"> </font></font></div>
+<div><font face="Verdana"><font face="Arial"><font face="Verdana" size="2"><br>{Hns1}.sitehosp.com.br - {ns1} 
+<br>{Hns2}.</font></font></font><font face="Verdana"><font face="Arial"><font face="Verdana" size="2">sitehosp</font></font></font><font face="Verdana"><font face="Arial"><font face="Verdana" size="2">.com.br - {ns2}</font></font></font></div>
+<div><font face="Verdana"><font face="Arial"><font face="Verdana" size="2"><font color="#ff0000"><br>* a alteração dos 
+DNS junto aos órgãos competentes de registro é de responsabilidade do 
+cliente.</font><br> <br>Seu e-mail padrão é: {mailp}</font><br><font face="Verdana" size="2">Login: {mailp}</font></font></font></div>
+<div><font face="Verdana"><font face="Arial"><font face="Verdana" size="2">Servidor POP: mail.{dominio}</font></font></font></div>
+<div><font face="Verdana"><font face="Arial"><font size="-0"><font face="Verdana" size="2">Servidor SMTP: 
+mail.{dominio}<br> <br>* Acesso via ftp:</font></font></font></font></div>
+<div><font face="Verdana"><font face="Arial"><font face="Verdana" size="2">  <a href="ftp://ftp.{dominio}">ftp.{dominio}</a> ou <a href="ftp://ftp.web{web}.seusite.com">{MultiFTP}.</a></font></font></font><a href="ftp://ftp.web{web}.sitehosp.com"><font face="Verdana"><font face="Arial"><font face="Verdana" size="2">sitehosp</font></font></font></a><font face="Verdana"><font face="Arial"><font face="Verdana" size="2"><a href="ftp://ftp.web{web}.seusite.com">.com</a></font><br><font face="Verdana" size="2">  login: {ftp}<br>  senha: 
+{pass}<br>    <font color="#ff0000">* os arquivos devem ser 
+enviados para dentro da pasta wwwroot</font><br> <br>* Para acessar seu 
+Painel de Controle Windows:<br>  </font><a href="http://{dominio}:8086"><font face="Verdana" size="2">http://{dominio}:8086</font></a><font face="Verdana" size="2"> ou </font><a href="http://{MultiWEB}.seusite.com:8086"><font face="Verdana" size="2">http://{MultiWEB}.</font></a></font></font><a href="http://{MultiWEB}.sitehosp.com:8086"><font face="Verdana"><font face="Arial"><font face="Verdana" size="2">sitehosp</font></font></font></a><font face="Verdana"><font face="Arial"><a href="http://{MultiWEB}.seusite.com:8086"><font face="Verdana" size="2">.com:8086</font></a><font face="Verdana" size="2"><br></font></font></font></div><br><div><font face="Verdana"><font face="Arial"> </font></font></div>
+<div>
+<div><font face="Verdana"><font face="Arial"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2">Qualquer dúvida ou informação, sinta-se a vontade em 
+contatar-nos!<br><br></font></font></font></font></font></div>
+<div><font face="Verdana"><font face="Arial"> </font></font></div>
+<div><font face="Verdana"><font face="Arial"><font face="Verdana" size="2"><font face="Verdana" size="2"><span style="font-size: 10pt; font-family: 'Verdana','sans-serif';"><strong>OBS: 
+este é um e-mail automático enviado pelo nosso sistema, por favor não 
+responda.<br><br></strong></span></font></font></font></font></div>
+<div><font face="Verdana"><font face="Arial"><font face="Verdana" size="2"><font face="Verdana" size="2"> </font></font></font></font></div>
+<div>
+<div>
+<div>
+<div><font face="Verdana"><font face="Arial"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2">Atenciosamente,<br>Departamento de 
+Contas<br>[footer]<br></font></font></font></font></font></div></div></div></div></div></div></div></div></body></html>
+

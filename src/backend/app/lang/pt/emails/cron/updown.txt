@@ -1,0 +1,46 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta content="MSHTML 6.00.6000.16481" name="GENERATOR"></head><body bgcolor="#ffffff">
+<meta content="MSHTML 6.00.6000.16481" name="GENERATOR"><meta content="MSHTML 6.00.2900.2963" name="GENERATOR"><meta content="MSHTML 6.00.2900.2802" name="GENERATOR">
+
+
+<style></style>
+
+<div><font face="Verdana" size="2">[header]</font><br><font face="Verdana" size="2"><strong>Prezado(a) Sr(a).
+{name}</strong><br><br>A Empresa vem por meio desta informar que o
+processo de <strong>alteração de plano</strong> da conta informada
+abaixo foi executado com sucesso. Abaixo estão os dados do atuais.<br><br></font></div>
+<div> </div>
+<div>
+<div><font size="2"><font size="2"><font face="Verdana"><strong>Dados do
+Serviço</strong></font></font></font></div>
+<div><strong></strong><strong></strong> </div>
+<div><font face="Verdana" size="2">ID: {servn}</font></div>
+<div><font face="Verdana" size="2">Domínio: {dominio}</font></div>
+<div><font face="Verdana" size="2">Plano Contratado: {serv}</font></div>
+<div><font face="Verdana" size="2">Valor: {preco}<br><br></font></div>
+<div> </div>
+<div><font face="Verdana" size="2"><span style="font-size: 10pt; font-family: 'Verdana','sans-serif';">A
+diferença de valores entre os planos será cobrado conforme informada
+anteriormente. </span><span style="font-size: 10pt; font-family: 'Verdana','sans-serif';">Qualquer
+alteração neste valor, você será primeiramente notificado pelo nosso Dpto.
+Financeiro</span></font></div>
+<div><font size="2"> </font></div>
+<div>
+<div><font face="Verdana" size="2">
+<div><font face="Verdana" size="2">
+</font><div><font face="Verdana" size="2"><font face="Verdana" size="2">Qualquer dúvida ou informação, sinta-se a vontade
+em contatar-nos!<br><br></font></font></div>
+<div><font face="Verdana" size="2"> </font></div>
+<div><span style="font-size: 10pt; font-family: 'Verdana','sans-serif';"><font face="Verdana" size="2"><strong>OBS:
+este é um e-mail automático enviado pelo nosso sistema, por favor não
+responda.<br><br></strong></font></span></div>
+<div><font face="Verdana" size="2"> </font></div>
+<div><font face="Verdana" size="2"><font face="Verdana" size="2">Atenciosamente,<br>Departamento de
+Contas</font></font></div>
+<div>
+<div>
+<div>
+<font face="Verdana" size="2">[footer]</font></div></div></div></div></font></div></div></div></body></html>
+

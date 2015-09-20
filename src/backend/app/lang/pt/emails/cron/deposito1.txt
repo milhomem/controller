@@ -1,0 +1,42 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<HTML><HEAD>
+<META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
+<META content="MSHTML 6.00.6000.16481" name=GENERATOR>
+<STYLE></STYLE>
+</HEAD>
+<BODY bgColor=#ffffff>
+<DIV><FONT face=Verdana size=2><STRONG>Prezado(a) Sr(a). 
+{name}</STRONG><BR><BR>Por meio desta lembrar que a fatura de número {id} está 
+vencendo hoje, {venc}. <STRONG>Caso o pagamento já tenha sido efetuado, por 
+favor desconsidere este e-mail</STRONG>.</FONT></DIV>
+<DIV><FONT face=Verdana size=2><FONT face="Times New Roman" size=3><FONT 
+face=Verdana size=2></FONT></FONT></FONT><FONT face=Verdana 
+size=2></FONT>&nbsp;</DIV>
+<DIV>
+<DIV><FONT size=2><FONT size=2><FONT face=Verdana><STRONG>Dados da 
+Conta</STRONG></FONT></FONT></FONT></DIV>
+<DIV><STRONG><FONT face=Verdana size=2></FONT></STRONG>&nbsp;</DIV>
+<DIV><FONT face=Verdana size=2>Banco: {codbanco} - {banco} </FONT></DIV>
+<DIV><FONT face=Verdana size=2>Agência: {agencia}</FONT></DIV>
+<DIV><FONT face=Verdana size=2>C/C: {contacorrente}</FONT></DIV>
+<DIV><FONT face=Verdana size=2>Favorecido: {favorecido}</FONT></DIV>
+<DIV><FONT face=Verdana size=2>CNPJ: 00.xxx.xxx/xxxx-xx</FONT></DIV>
+<DIV><FONT face=Verdana size=2>Fatura: {id}</FONT></DIV>
+<DIV><FONT face=Verdana size=2>Valor: {valor_fatura}</FONT></DIV>
+<DIV><FONT size=2>
+<DIV><FONT face=Verdana size=2><STRONG>Vencimento : {venc}</STRONG></FONT></DIV>
+<DIV><FONT face=Verdana></FONT>&nbsp;</DIV>
+<DIV><FONT face=Verdana><FONT face=Verdana><STRONG>Este boleto tem referencia 
+aos serviços conforme descrito abaixo:</STRONG></FONT></DIV>
+<DIV>
+<DIV><FONT face=Verdana>{referencia}</FONT></DIV></FONT></DIV>
+<DIV><FONT face=Verdana></FONT>&nbsp;</DIV>
+<DIV>
+<DIV><FONT face=Verdana>Você deve confirmar seu pagamento.</FONT></DIV>
+<DIV><FONT face=Verdana></FONT>&nbsp;</DIV></DIV>
+<DIV>
+<DIV></FONT><FONT face=Verdana size=2>Qualquer dúvida ou informação, sinta-se a 
+vontade em contatar-nos!</FONT></DIV>
+<DIV><FONT face=Verdana size=2></FONT>&nbsp;</DIV>
+<DIV><FONT face=Verdana size=2></FONT><FONT face=Verdana size=2><FONT 
+face=Arial></FONT>[FOOTER]</DIV></DIV></DIV></DIV></FONT></BODY></HTML>

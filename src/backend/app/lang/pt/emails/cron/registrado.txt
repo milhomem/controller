@@ -1,0 +1,33 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta content="MSHTML 6.00.6000.16481" name="GENERATOR"></head><body bgcolor="#ffffff">
+<meta content="MSHTML 6.00.6000.16441" name="GENERATOR"><meta content="MSHTML 6.00.2900.2963" name="GENERATOR">
+
+<meta content="MSHTML 6.00.2900.2802" name="GENERATOR">
+<div><font size="2"><font face="Verdana"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2">[header]</font></font></font></font></font></font><br><font size="2"><font face="Verdana"><font face="Verdana" size="2"><strong>Seja bem
+vindo!<br></strong> <br></font><font face="Verdana" size="2">Nós trabalhamos para lhe oferecer o melhor serviço de hospedagem,
+prezamos pela qualidade dos serviços e suporte, portanto pode contar conosco
+para qualquer dúvida que você tiver.<br><br>Para que você entenda melhor como
+funciona o nosso sistema de registro leia as instruções
+abaixo: </font></font></font></div>
+<div>
+<div><font size="2"><font face="Verdana"> </font></font></div>
+<div><font size="2"><font face="Verdana"><font face="Verdana" size="2">##################################<br>Domínio Registrado:
+{dominio}<br>Próximo vencimento: {vencserv}<br></font></font></font><div><font size="2"><font face="Verdana"><font face="Verdana" size="2">##################################<br> <br></font></font></font><font size="2"><font face="Verdana"><font face="Verdana" size="2">Veja abaixo os DNS
+atualmente registrado</font></font></font><font size="2"><font face="Verdana"><font face="Verdana" size="2">:<br> <br>Servidor de DNS: {ns1}<br>Servidor de DNS: {ns2}<br><br></font></font></font><font size="2"><font face="Verdana"><font face="Verdana" size="2">Para administrar os dados do registro, tais como alterar
+os servidores de DNS atuais do domínio, acesse nossa Área de Clientes.<br><br></font></font></font><font size="2"><font face="Verdana"><font face="Verdana" size="2"> </font></font></font></div><div><font size="2"><font face="Verdana"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2">Qualquer dúvida ou informação, sinta-se a vontade em
+contatar-nos!<br><br></font></font></font></font></font></font>
+<div><font size="2"><font face="Verdana"><font face="Verdana" size="2"> </font></font></font></div>
+<div><font size="2"><font face="Verdana"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><span style="font-size: 10pt; font-family: 'Verdana','sans-serif';"><strong>OBS:
+este é um e-mail automático enviado pelo nosso sistema, por favor não
+responda.<br><br></strong></span></font></font></font></font></font></div>
+<div>
+<div><font size="2"><font face="Verdana"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"> </font></font></font></font></font></div>
+<div>
+<div>
+<div>
+<div><font size="2"><font face="Verdana"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2">Atenciosamente,<br>Departamento de
+Contas<br>[footer]<br></font></font></font></font></font></font></div>
+</div></div></div></div></div></div></div></body></html>
+

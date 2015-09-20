@@ -1,0 +1,44 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta content="MSHTML 6.00.6000.16481" name="GENERATOR"></head><body bgcolor="#ffffff">
+<meta content="MSHTML 6.00.6000.16397" name="GENERATOR"><meta content="MSHTML 6.00.5730.11" name="GENERATOR"><meta content="MSHTML 6.00.2900.2802" name="GENERATOR">
+
+
+<style></style>
+
+<div><font face="Verdana" size="2"><strong>Prezado(a) Sr(a).
+{name}</strong><br><br>A Empresa vem por meio desta informar que tentamos realizar a transa&ccedil;&atilde;o da fatura descrita abaixo em seu cart&atilde;o de cr&eacute;dito AMEX, por&eacute;m a mesma foi recusada pela operadora.
+<br><br>Por favor verifique e nos deixe informado para tentarmos realizá-la novamente.
+</font></div>
+<div>&nbsp;</div>
+
+<div>
+<div><font size="2"><font size="2"><font face="Verdana"><strong>Dados da Fatura<br></strong></font></font></font></div>
+<div><strong></strong>&nbsp;</div>
+<div><font face="Verdana" size="2">Fatura : {id}</font></div>
+<div><font face="Verdana" size="2">Valor da Fatura : {valor_fatura}</font></div>
+<div><font size="2">
+</font><div><font size="2"><font face="Verdana" size="2"><strong>Vencimento : {venc}</strong></font></font></div>
+<div><font size="2">&nbsp;</font></div>
+
+<div><font size="2">&nbsp;</font></div>
+<div><font size="2"><font face="Verdana">
+<div><font face="Verdana"><strong>Esta fatura tem referencia aos servi&ccedil;os conforme
+descrito abaixo:</strong></font></div>
+<div><font face="Verdana">{referencia}</font></div></font></font></div>
+<div><font size="2">&nbsp;</font></div>
+<div>
+
+<div><font size="2">&nbsp;</font></div></div>
+<div>
+<div><font face="Verdana" size="2">Qualquer d&uacute;vida ou informa&ccedil;&atilde;o, por favor
+entre em contato com o nosso departamento financeiro!</font></div>
+<div>&nbsp;</div>
+<div>
+<div>
+<div>
+<div><font face="Verdana" size="2">Atenciosamente,<br>Departamento&nbsp;Financeiro</font></div>
+<div>&nbsp;</div><font color="#000000"><font size="2"><font face="Verdana">[footer]</font></font></font><font color="#808080" face="Verdana" size="2"><font color="#000000"><br>
+</font></font><div align="left"><font color="#808080" face="Verdana" size="2"><font color="#000000"><strong><font size="1"><font color="#808080">A Empresa quer ouvir voc&ecirc;,
+envie sugest&otilde;es ou reclama&ccedil;&otilde;es para</font> <a style="text-decoration: none;" href="mailto:falecom@nempresa">falecom@empresa</a><font color="#808080">.</font></font></strong></font></font></div></div></div></div></div></div></div></body></html>

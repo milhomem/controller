@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta content="MSHTML 6.00.6000.16481" name="GENERATOR"></head><body bgcolor="#ffffff">
+<meta content="MSHTML 6.00.6000.16397" name="GENERATOR"><meta content="MSHTML 6.00.2900.2963" name="GENERATOR"><meta content="MSHTML 6.00.2900.2802" name="GENERATOR">
+
+
+<style></style>
+
+<div><font size="2"><font face="Verdana"><font face="Verdana"><font face="Verdana" size="2">[header]</font></font></font></font><br><font face="Verdana" size="2"><strong>Prezado(a) Sr(a).
+{name}</strong><br><br>A Empresa vem por meio desta lembrar que a fatura de
+número {id} está vencendo hoje, {venc}.<br></font></div>
+<div><font face="Verdana" size="2"><strong>Caso o pagamento já tenha sido efetuado,
+por favor desconsidere este e-mail</strong>.<br><br></font></div>
+<div> </div>
+<div><font face="Verdana" size="2"><font face="Times New Roman" size="3"><font face="Verdana" size="2">
+</font></font></font><div><font size="2"><font size="2"><font face="Verdana"><strong>Dados do Boleto</strong></font></font></font></div></div>
+<div>
+<div><strong></strong> </div>
+<div><font face="Verdana" size="2">Fatura : {id}</font></div>
+<div><font face="Verdana" size="2">Valor do Boleto : {valor_fatura}</font></div>
+<div><font size="2">
+<div><font face="Verdana" size="2"><strong>Vencimento : {venc}<br><br></strong></font></div>
+<div> </div>
+<div><font face="Verdana">
+</font><div><font face="Verdana"><font face="Verdana">
+</font></font><div><font face="Verdana"><font face="Verdana"><font face="Verdana">No valor descrito acima está inclusa a tarifa
+bancária do boleto a qual está descrita somente no próprio boleto somando o
+valor de R$2,90.<br><br> </font></font></font></div>
+<div><font face="Verdana"><font face="Verdana"> </font></font></div>
+<div><font face="Verdana"><font face="Verdana"><font face="Arial"><strong><font face="Verdana">Este boleto tem referencia aos
+serviços conforme descrito abaixo:</font></strong>
+<div><font face="Verdana">{referencia}<br><br></font></div></font></font></font></div>
+<div><font face="Verdana"><font face="Verdana"> </font></font></div>
+<div><font face="Verdana"><font face="Verdana"><font face="Verdana">Acesse o link abaixo para fazer a impressão do
+boleto:</font></font></font></div>
+<div><font face="Verdana"><font face="Verdana"><font face="Verdana"><a href="{link}">{link}</a><br><br></font></font></font></div>
+<div><font face="Verdana"><font face="Verdana"> </font></font></div>
+<div>
+<div><font face="Verdana"><font face="Verdana"><font face="Verdana">ou se preferir utilize a linha digitável para pagamento
+via internet banking:</font></font></font></div>
+<div><font face="Verdana"><font face="Verdana"><font face="Verdana">{linhadigitavel}<br><br></font></font></font></div></div>
+<div><font face="Verdana"><font face="Verdana"> </font></font></div> 
+<div>
+<div><font face="Verdana"><font face="Verdana"><font face="Verdana">O pagamento do boleto é compensado pelo banco em
+aproximadamente 2 dias úteis, logo, caso seja necessária a confirmação do
+pagamento de imediato, será necessário o envio do comprovante para o depto.
+financeiro.</font></font></font></div>
+<div><font face="Verdana"><font face="Verdana"> </font></font></div></div>
+<div>
+<div><font face="Verdana"><font face="Verdana"><font face="Verdana" size="2"><br>Qualquer dúvida ou informação, por favor entre em
+contato com o nosso departamento financeiro!</font></font></font></div>
+<div><font face="Verdana"><font face="Verdana"> </font></font></div>
+<div><font face="Verdana"><font face="Verdana"><strong><br>OBS: este é um e-mail automático enviado pelo nosso sistema, por
+favor não responda.</strong></font></font></div>
+<div><font face="Verdana"><font face="Verdana"> </font></font></div>
+<div>
+<div>
+<div>
+<div><font face="Verdana"><font face="Verdana"><font face="Verdana" size="2"><br>Atenciosamente,<br>Departamento Financeiro<br>[footer]<br></font></font></font></div>
+<div><font face="Verdana"><font face="Verdana"> </font></font></div></div></div></div></div></div></div></font></div></div></body></html>
+

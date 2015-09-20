@@ -1,0 +1,47 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta content="MSHTML 6.00.6000.16525" name="GENERATOR"></head><body bgcolor="#ffffff">
+<meta content="MSHTML 6.00.6000.16441" name="GENERATOR"><meta content="MSHTML 6.00.6000.16441" name="GENERATOR"><meta content="MSHTML 6.00.5730.11" name="GENERATOR">
+
+
+<meta content="MSHTML 6.00.2900.2802" name="GENERATOR">
+<div><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2">[header]</font></font></font></font></font><br><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><strong>Seja bem vindo!</strong><br></font></font></font></font></div><font face="Verdana" size="2"><font face="Verdana" size="2"><br>
+</font></font><div><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><strong>Painel de
+Revenda</strong><br> <br>Você terá acesso
+ao WHM, o painel de revenda para você criar e controlar os domínios dos seus
+clientes. Para acessar este painel, utilize as informações
+abaixo:<br> <br>URL: <a href="http://www.{servidor}/whm">http://www.{servidor}/whm</a> ou <a href="http://www.{dominio}/whm">http://www.{dominio}/whm</a><br>Login: {user}
+<br>Senha: {pass} <br> <br> <br><strong>Cpanel para
+domínios<br></strong> <br>Cada domíno hospedado por você (inclusive o seu
+domínio principal) terá um painel de controle próprio, onde se poderá criar e
+gerenciar contas de e-mail, bancos de dados, scripts pré-instalados, etc. Para
+acessar este painel, utilize:<br> <br>URL: <a href="http://www.{servidor}/cpanel">http://www.{servidor}/cpanel</a> ou <a href="http://www.{dominio}/cpanel">http://www.{dominio}/cpanel</a><br>Login:
+login que você escolheu para o dominio<br>senha: senha que você escolheu para o
+dominio<br><br></font></font></font></font></div><font face="Verdana" size="2"><font face="Verdana" size="2">
+</font></font>
+<font size="2"><font face="Verdana"><br></font></font>
+<div><div><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><strong>DNS's<br></strong> <br>Para que seus clientes utilizem os
+seus nameservers próprios (do seu domínio principal) basta você configurar o seu
+domínio com as seguintes informações:<br> <br>{Rns1}.{dominio} - {ns1}
+<br>{Rns2}.{dominio} - {ns2} </font></font></font></font></div>
+<div><font face="Verdana" size="2"><font face="Verdana" size="2"> </font></font></div>
+<div><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2">Caso você não queira
+utilizar seus nameservers próprios, utilize os DNS's padrões do
+servidor:<br> <br>ns1.{servidor} - {ns1} <br>ns2.{servidor} - {ns2}
+</font></font></font></font></div>
+<div><font face="Verdana" size="2"><font face="Verdana" size="2"> </font></font></div><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2">
+</font></font></font></font><div><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><br><strong>HelpDesk</strong><br> <br>Qualquer dúvida ou problema que
+você tiver basta acessar nosso HelpDesk na Área de Clientes que iremos
+ter prazer em ajudar-lhe.<br><br></font></font></font></font></div>
+<div><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"> </font></font></font></font></div><span style="font-size: 10pt; font-family: 'Verdana','sans-serif';"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><strong>OBS:
+este é um e-mail automático enviado pelo nosso sistema, por favor não
+responda.<br><br></strong></font></font></font></font></span>
+<div><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"> </font></font></font></font></div>
+<div>
+<div>
+<div>
+<div><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2">Atenciosamente,<br>Departamento de
+Contas<br>[footer]<br></font></font></font></font></font></div>
+</div></div></div></div></body></html>
+

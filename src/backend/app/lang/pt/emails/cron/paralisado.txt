@@ -1,0 +1,43 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta content="MSHTML 6.00.6000.16481" name="GENERATOR"></head><body bgcolor="#ffffff">
+<meta content="MSHTML 6.00.2900.2963" name="GENERATOR">
+<style></style>
+
+<div><font><font face="Verdana" size="2">[header]</font></font><br><font face="Verdana" size="2"><strong>Prezado(a) Sr(a).
+{name}</strong><br><br>A Empresa vem por meio desta informar que o
+processo de <strong>bloqueio parcial </strong>do serviço
+{servn} informado abaixo foi executado pelo sistema devido ao não pagamento
+da fatura<strong> {invoice}.</strong> </font></div>
+<div> </div>
+<div><font face="Verdana" size="2">
+<div><font face="Verdana" size="2">Para a reativação do serviço, efetue o pagamento
+do boleto e em seguida envie o comprovante para o dept.
+financeiro.<br><br></font></div></font></div>
+<div> </div>
+<div>
+
+<div><font size="2"><font size="2"><font face="Verdana"><strong>Dados do
+Serviço</strong></font></font></font><strong></strong><strong></strong> </div>
+<div><font face="Verdana" size="2">ID: {servn}</font></div>
+<div><font face="Verdana" size="2">Domínio: {dominio}</font></div>
+<div><font face="Verdana" size="2">Serviço: {serv}</font></div>
+<div><font face="Verdana" size="2"><strong>Fatura para pagamento:
+{invoice}<br><br></strong></font></div>
+<div> </div>
+<div><font face="Verdana" size="2">
+<div>
+<div><font face="Verdana" size="2">Qualquer dúvida ou informação, sinta-se a vontade
+em contatar-nos!<br><br></font></div>
+<div> </div>
+<div><span style="font-size: 10pt; font-family: 'Verdana','sans-serif';"><strong>OBS:
+este é um e-mail automático enviado pelo nosso sistema, por favor não
+responda.<br><br></strong></span></div>
+<div> </div>
+<div>
+<div>
+<div>
+<div><font face="Verdana" size="2">Atenciosamente,<br>Departamento
+Financeiro</font></div>[footer]<br></div></div></div></div></font></div></div></body></html>
+

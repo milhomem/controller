@@ -1,0 +1,57 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta content="MSHTML 6.00.6000.16525" name="GENERATOR"></head><body bgcolor="#ffffff">
+<meta content="MSHTML 6.00.6000.16441" name="GENERATOR">
+<meta content="MSHTML 6.00.2900.2963" name="GENERATOR">
+<div><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Arial" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana"><font face="Verdana" size="2">[header]</font></font></font></font></font></font></font></font><br><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Arial" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><strong>Seja bem vindo!</strong><br> <br> <strong>HELM
+- Interface de Revenda</strong> <br> <br>Você terá acesso ao HELM, o painel de revenda/cliente para você criar e
+controlar os domínios dos seus clientes. Para acessar o HELM em Interface de
+Revenda, utilize as informações abaixo:<br> <br>URL: <a href="http://www.{dominio}:8086">http://www.{dominio}:8086</a> ou <a href="http://www.{servidor}:8086">http://www.{servidor}:8086</a></font></font></font></font></font></font></div>
+<div>
+<div>
+<div>
+<div><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Arial" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2">Login:
+{reseller}<br>senha: {pass}<br> </font></font></font></font></font></font></div>
+<div>
+<div><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Arial" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"> </font></font></font></font></font></div>
+<div><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Arial" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><strong>HELM - Interface do
+Cliente</strong><br> <br>Cada domíno hospedado por você (inclusive o seu
+domínio principal) terá um painel de controle próprio, onde se poderá criar e
+gerenciar contas de e-mail, bancos de dados, proteger diretórios, etc. Para
+acessar este painel, utilize:<br> <br>URL: <a href="http://www.{dominio}:8086">http://www.{dominio}:8086</a> ou <a href="http://www.{servidor}:8086">http://www.{servidor}:8086</a><br>Login: login
+que você escolheu para o dominio<br>senha: senha que você escolheu para o
+dominio<br> <br> <br><strong>Dados do seu Domínio
+Principal</strong><br> <br>Domínio: {dominio}<br>Login: {user}<br>Senha:
+{pass}<br>E-Mail Padrão: {mailp}<br>Servidor POP: mail.{dominio}<br>Servidor
+SMTP: mail.{dominio} <br> <br>Acesso via ftp:<br><a href="ftp://ftp.{dominio}">ftp.{dominio}</a> ou <a href="ftp://ftp2.{servidor}">ftp.{servidor}</a><br>login: {ftp}<br>senha:
+{pass}<br> <br> <br><strong>Acesso aos
+softwares</strong><br> <br>Para acessar o phpMyAdmin:<br><a href="http://mysql.{dominio}">http://mysql.{dominio}</a><br><a href="http://mysql.{servidor}">http://mysql.{servidor}</a><br><br>Para acessar o
+WebMail:<br><a href="http://mail.{dominio}">http://mail.{dominio}</a><br><a href="http://mail.{servidor}">http://mail.{servidor}</a></font></font></font></font></font></font></div><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Arial" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2">
+<div><br>
+
+<div><font face="Verdana" size="2"><font face="Verdana" size="2"> </font></font></div><div><div><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><strong>DNS's</strong> <br> <br>Para que seus
+clientes utilizem os seus nameservers próprios (do seu domínio principal) basta
+você configurar o seu domínio com as seguintes informações: <br>
+<br>{Rns1}.{dominio} - {ns1} <br>{Rns2}.{dominio} - {ns2} <br> <br>Caso
+você não queira utilizar seus nameservers próprios, utilize os DNS's padrões do
+servidor: <br> <br>ns1.{servidor} - {ns1} <br>ns2.{servidor} -
+{ns2}</font></font></font></font></div></div></div>
+<div>
+<div>
+<font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"> <br> <br><strong>HelpDesk<br></strong> <br>Qualquer
+dúvida ou problema que você tiver basta acessar nosso HelpDesk na Área de Clientes que iremos ter prazer em ajudar-lhe.<br><br></font></font></font></font></div>
+<div><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"> </font></font></font></font></div>
+<div><span style="font-size: 10pt; font-family: 'Verdana','sans-serif';"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><strong>OBS:
+este é um e-mail automático enviado pelo nosso sistema, por favor não
+responda.<br><br></strong></font></font></font></font></span></div>
+<div><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"> </font></font></font></font></div></div></font></font></font></font></font></font></div></div></div></div>
+<div>
+<div>
+<div><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Arial" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana">
+</font></font></font></font></font></font></font><div>
+<div>
+<div><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Arial" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana"><font face="Verdana" size="2">Atenciosamente,<br>Departamento de
+Contas<br>[footer]<br></font></font></font></font></font></font></font></font></div>
+</div></div></div></div></div></body></html>
+

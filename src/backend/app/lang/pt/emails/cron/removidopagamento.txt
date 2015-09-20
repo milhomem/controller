@@ -1,0 +1,51 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta content="MSHTML 6.00.6000.16481" name="GENERATOR"></head><body bgcolor="#ffffff">
+<meta content="MSHTML 6.00.2900.2963" name="GENERATOR">
+<style></style>
+
+<div><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Arial"><font face="Verdana" size="2">[header]</font></font></font></font></font><br><font face="Verdana" size="2"><strong>Prezado(a) Sr(a).
+{name}</strong><br><br>A Empresa vem por meio desta informar que o
+processo de <strong>remoção </strong>do serviço {servn} informado
+abaixo foi executado pelo sistema devido ao não pagamento da fatura<strong>
+{invoice}.<br><br></strong> </font></div>
+<div> </div>
+<div><font face="Verdana" size="2">
+<div><font face="Verdana" size="2">Para a reativação do serviço, efetue o pagamento
+do boleto e envie o comprovante para o e-mail dept. financeiro que a
+conta será recriada <strong>sem os arquivos salvos
+anteriormente</strong>.<br><br></font></div>
+<div> </div>
+<div>Para a restauração do ultimo backup salvo no servidor, entre em contato com
+o suporte, será cobrada uma taxa que poderá variar de acordo com a
+conta.<br><br></div></font></div>
+<div> </div>
+<div>
+<div><font size="2"><font size="2"><font face="Verdana"><strong>Dados do
+Serviço</strong></font></font></font></div>
+<div><strong></strong><strong></strong> </div>
+<div><font face="Verdana" size="2">ID: {servn}</font></div>
+<div><font face="Verdana" size="2">Domínio: {dominio}</font></div>
+<div><font face="Verdana" size="2">Serviço: {serv}</font></div>
+<div><font face="Verdana" size="2"><strong>Fatura para pagamento:
+{invoice}<br><br></strong></font></div>
+<div> </div>
+<div><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2">Qualquer dúvida ou informação, sinta-se a
+vontade em contatar-nos!<br><br></font></font></font></font></div>
+<div>
+<div>
+<div>
+<div><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Arial">
+</font></font></font></font><div>
+<div>
+<div><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Arial"> </font></font></font></font></div>
+<div>
+<div><span style="font-size: 10pt; font-family: 'Verdana','sans-serif';"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Arial"><strong>OBS:
+este é um e-mail automático enviado pelo nosso sistema, por favor não
+responda.<br><br></strong></font></font></font></font></span></div>
+<div><span style="font-size: 10pt; font-family: 'Verdana','sans-serif';"></span><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Arial"> </font></font></font></font></div></div>
+<div>
+<div><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Arial"><font face="Verdana" size="2">Atenciosamente,<br>Departamento de
+Contas<br>[footer]</font><font color="#808080" face="Verdana" size="2"><strong><br></strong></font></font></font></font></font></div></div></div></div></div></div></div></div></div></body></html>
+

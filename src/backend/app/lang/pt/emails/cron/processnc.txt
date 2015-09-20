@@ -1,0 +1,48 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta content="MSHTML 6.00.6000.16481" name="GENERATOR"></head><body bgcolor="#ffffff">
+<meta content="MSHTML 6.00.2900.2963" name="GENERATOR">
+<style></style>
+
+<div><font face="Verdana" size="2">[header]</font><br><font face="Verdana" size="2"><strong>Prezado(a) Sr(a).
+{name}</strong><br><br>A Empresa vem por meio desta informar que o
+pagamento da fatura de número {id} o qual foi enviado o comprovante,
+ainda não foi compensado e o serviço informado
+abaixo estará em processo de <strong>{processo}</strong>
+({descricao}) em <strong>{prazo}</strong>.<br><br></font></div>
+<div> </div>
+<div><font face="Verdana" size="2"><font face="Times New Roman" size="3"><font face="Verdana" size="2">
+<div><font face="Verdana" size="2">Para evitar a execução deste processo, pedimos
+que entre em contato com o depto. financeiro imediatamente.</font></div>
+<div>No caso se o serviço não for mais utilizado, pedimos que entre em contato
+com o depto. financeiro solicitando o
+cancelamento.<br><br></div></font></font></font></div>
+<div> </div>
+<div>
+<div><font size="2"><font size="2"><font face="Verdana"><strong>Dados do
+Serviço</strong></font></font></font></div>
+
+<div><font face="Verdana" size="2">ID: {servn}</font></div>
+<div><font face="Verdana" size="2">Domínio: {dom}</font></div>
+<div><font face="Verdana" size="2">Serviço: {serv}</font></div>
+<div><font face="Verdana" size="2"><strong>Fatura para pagamento:
+{id}<br><br></strong></font></div>
+<div><font size="2">
+</font><div><font size="2"> </font></div>
+<div><font face="Verdana" size="2">
+</font><div><font face="Verdana" size="2"><font face="Verdana" size="2">
+<div>
+<div><font face="Verdana" size="2">Qualquer dúvida ou informação, sinta-se a vontade
+em contatar-nos!<br><br></font></div>
+<div> </div>
+<div><span style="font-size: 10pt; font-family: 'Verdana','sans-serif';"><strong>OBS:
+este é um e-mail automático enviado pelo nosso sistema, por favor não
+responda.<br><br></strong></span></div>
+<div> </div>
+<div>
+<div>
+<div>
+<div><font face="Verdana" size="2">Atenciosamente,<br>Departamento
+Financeiro</font></div>[footer]<br></div></div></div></div></font></font></div></div></div></div></body></html>
+

@@ -1,0 +1,45 @@
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta content="MSHTML 6.00.6000.16481" name="GENERATOR"></head><body bgcolor="#ffffff">
+<meta content="MSHTML 6.00.6000.16397" name="GENERATOR">
+<meta content="MSHTML 6.00.5730.11" name="GENERATOR">
+<meta content="MSHTML 6.00.2900.2802" name="GENERATOR">
+<style></style>
+<div><font face="Verdana" size="2"><strong>Olá Prezado(a) Sr(a).
+{name}</strong><br><br>A <font size="2">Empresa</font> vem por meio desta informar que a fatura
+de número {id} foi gerada pelo sistema neste momento e já pode ser paga através
+do link que segue abaixo.
+</font></div>
+<div>&nbsp;</div>
+<div><font face="Verdana" size="2"><font face="Times New Roman" size="3"><font face="Verdana" size="2">
+<div><font face="Verdana" size="2">Após o vencimento, <font size="2">você pode prorroga<font size="2">r o <font size="2">pagamento através da sua área de clientes</font></font></font> sendo cobrada uma multa de 2% do
+valor somando juros de mora de&nbsp;6% ao mês pro-rata dia.</font></div>
+</font></font></font><div>&nbsp;</div></div>
+<div>
+<div><font size="2"><font size="2"><font face="Verdana"><strong>Dados d<font size="2">a fatura</font><br></strong></font></font></font></div>
+<div><strong></strong>&nbsp;</div>
+<div><font face="Verdana" size="2">Fatura : {id}</font></div>
+<div><font face="Verdana" size="2">Valor: {valor_fatura}</font></div><div><br><font size="2"><div><font face="Verdana" size="2"><strong>Vencimento : {venc}</strong></font></div>
+<div>&nbsp; <br></div>
+<div><font face="Verdana">
+<div><font face="Verdana"><strong>Esta fatura tem referencia aos serviços conforme
+descrito abaixo:</strong></font></div>
+<div><font face="Verdana">{referencia}</font></div></font></div>
+<div>&nbsp;</div>
+<div><font face="Verdana">Acesse o link abaixo para fazer o pagamento:</font></div>
+<div><font face="Verdana"><a href="{link}">{link}</a></font></div>
+<div><div>&nbsp;</div></div></font><div><font size="2">
+</font><div><font face="Verdana" size="2">Qualquer dúvida ou informação, por favor
+entre em contato com o nosso departamento financeiro!</font></div>
+<div>&nbsp;</div>
+<div><font face="Verdana" size="2"><strong>OBS: este é um e-mail automático enviado
+pelo nosso sistema, por favor não responda.</strong></font></div>
+<div>&nbsp;</div>
+<div>
+<div>
+<div>
+<div><font face="Verdana" size="2">Atenciosamente,<br>Departamento&nbsp;Financeiro<br><font size="2">[<font size="2">footer]</font></font><br></font></div>
+</div></div></div></div></div></div>
+</body>
+</html>

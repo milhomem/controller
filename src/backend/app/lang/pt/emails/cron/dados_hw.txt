@@ -1,0 +1,54 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta content="MSHTML 6.00.6000.16481" name="GENERATOR"></head><body bgcolor="#ffffff"><font face="Verdana"><font face="Arial"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2">[header]</font></font></font></font></font>
+<meta content="MSHTML 6.00.6000.16441" name="GENERATOR"><meta content="MSHTML 6.00.2900.2963" name="GENERATOR">
+
+<meta content="MSHTML 6.00.2900.2802" name="GENERATOR">
+<div><font face="Verdana"><font face="Arial"><font face="Verdana"><font face="Verdana" size="2"><strong>Seja bem vindo!<br><br></strong></font></font></font></font></div>
+<div>
+<div><font face="Verdana"> </font></div>
+<div><font face="Verdana"><font face="Arial"><font face="Verdana" size="2">Nós trabalhamos para lhe
+oferecer o melhor serviço de hospedagem, prezamos pela qualidade dos serviços e
+suporte, portanto pode contar conosco para qualquer dúvida que você
+tiver.<br>Para que você entenda melhor como funciona o nosso sistema de
+hospedagem leia as instruções abaixo:
+<br> <br>#####################################<br>domínio:
+{dominio}<br>Servidor: {MultiWEB}.sitehospedagem.ext<br></font>
+</font></font><div><font face="Verdana"><font face="Arial"><font face="Verdana" size="2">Usuário: {user}</font></font></font></div>
+<div><font face="Verdana"><font face="Arial"><font face="Verdana" size="2">Senha:
+{pass}<br>#####################################<br> <br>Caso não tenha
+registrado o domínio conosco, você deve alterar os DNS do domínio {dominio}
+junto ao órgão de registro utilizado para:<br><br></font></font></font></div></div>
+<div>
+<div>
+<div><font face="Verdana"><font face="Arial"> </font></font></div>
+<div><font face="Verdana"><font face="Arial"><font face="Verdana" size="2">{Hns1}.</font></font></font><font face="Verdana"><font face="Arial"><font face="Verdana" size="2">sitehospedagem.ext</font></font></font><font face="Verdana"><font face="Arial"><font face="Verdana" size="2"> - {ns1}
+<br>{Hns2}.</font></font></font><font face="Verdana"><font face="Arial"><font face="Verdana" size="2">sitehospedagem.ext</font></font></font><font face="Verdana"><font face="Arial"><font face="Verdana" size="2"> - {ns2}<br><br></font></font></font></div>
+<div><font face="Verdana"><font face="Arial"><font face="Verdana" size="2"><font color="#ff0000"> * a alteração dos
+DNS junto aos órgãos competentes de registro é de responsabilidade do
+cliente.</font><br> <br>Seu e-mail padrão é: {mailp}</font><br><font face="Verdana" size="2">Login: {mailp}</font></font></font></div>
+<div><font face="Verdana"><font face="Arial"><font face="Verdana" size="2">Servidor POP: mail.{dominio}</font></font></font></div>
+<div><font face="Verdana"><font face="Arial"><font size="-0"><font face="Verdana" size="2">Servidor SMTP:
+mail.{dominio}<br> <br>* Acesso via ftp:</font></font></font></font></div>
+<div><font face="Verdana"><font face="Arial"><font face="Verdana" size="2"> <a href="ftp://ftp.{dominio}">ftp.{dominio}</a> ou <a href="ftp://ftp.web{web}.sitehospedagem.ext">{MultiFTP}.</a></font></font></font><a href="ftp://ftp.web{web}.sitehospedagem.ext"><font face="Verdana"><font face="Arial"><font face="Verdana" size="2">sitehospedagem.ext</font></font></font></a><font face="Verdana"><font face="Arial"><br><font face="Verdana" size="2"> login: {ftp}<br> senha:
+{pass}<br><br> <font color="#ff0000">* os arquivos devem ser
+enviados para dentro da pasta wwwroot</font><br> <br>* Para acessar seu
+Painel de Controle Windows:<br> </font><a href="http://{dominio}:8086"><font face="Verdana" size="2">http://{dominio}:8086</font></a><font face="Verdana" size="2"> ou </font><a href="http://{MultiWEB}.sitehospedagem.ext:8086"><font face="Verdana" size="2">http://{MultiWEB}.</font></a></font></font><a href="http://{MultiWEB}.sitehospedagem.ext:8086"><font face="Verdana"><font face="Arial"><font face="Verdana" size="2">sitehospedagem.ext</font></font></font></a><font face="Verdana"><font face="Arial"><a href="http://{MultiWEB}.sitehospedagem.ext:8086"><font face="Verdana" size="2">:8086</font></a><br><font face="Verdana" size="2"> <br>* Para acessar o Webmail:<br> </font><font face="Verdana" size="2"><a href="http://mail.{dominio}">http://mail.{dominio}</a></font><font face="Verdana" size="2"> ou </font><a href="http://{MultiMAIL}.sitehospedagem.ext"><font face="Verdana" size="2">http://{MultiMAIL}.</font></a></font></font><a href="http://{MultiMAIL}.sitehospedagem.ext"><font face="Verdana"><font face="Arial"><font face="Verdana" size="2">sitehospedagem.ext</font></font></font></a><font face="Verdana"><font face="Arial"><br><font face="Verdana" size="2"> <br>* Para acessar o PhpMyAdmin:<br> </font><a href="http://mysql.{dominio}"><font face="Verdana" size="2">http://mysql.{dominio}</font></a><font face="Verdana" size="2"> ou </font><a href="http://mysql.{MultiWEB}.sitehospedagem.ext"><font face="Verdana" size="2">http://mysql.{MultiWEB}.</font></a></font></font><a href="http://mysql.{MultiWEB}.sitehospedagem.ext"><font face="Verdana"><font face="Arial"><font face="Verdana" size="2">sitehospedagem.ext</font></font></font></a><font face="Verdana"><font face="Arial"><a href="http://mysql.{MultiWEB}.sitehospedagem.ext"><font face="Verdana" size="2">/</font></a></font></font></div>
+<div><font face="Verdana"><font face="Arial"><font face="Verdana" size="2"><br>* HelpDesk - Dúvidas ou problemas devem ser enviadas através de
+nosso HelpDesk na Área de Clientes.<br><br></font></font></font></div>
+<div><font face="Verdana"><font face="Arial"> </font></font></div>
+<font face="Verdana"><font face="Arial"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2">Qualquer dúvida ou informação, sinta-se a vontade em
+contatar-nos!<br><br></font></font></font></font></font><div>
+<div><font face="Verdana"><font face="Arial"> </font></font></div>
+<div><font face="Verdana"><font face="Arial"><font face="Verdana" size="2"><font face="Verdana" size="2"><span style="font-size: 10pt; font-family: 'Verdana','sans-serif';"><strong>OBS:
+este é um e-mail automático enviado pelo nosso sistema, por favor não
+responda.</strong></span></font></font></font></font></div>
+<div><font face="Verdana"><font face="Arial"><font face="Verdana" size="2"><font face="Verdana" size="2"> </font></font></font></font></div>
+<div>
+<div>
+<div>
+<div><font face="Verdana"><font face="Arial"><font face="Verdana" size="2"><font face="Verdana" size="2"><font face="Verdana" size="2"><br>Atenciosamente,<br>Departamento de
+Contas<br>[footer]<br><br></font></font></font></font></font></div>
+</div></div></div></div></div></div></div></body></html>
+
