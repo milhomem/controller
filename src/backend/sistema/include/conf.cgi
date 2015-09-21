@@ -393,9 +393,9 @@ sub script_error
 	print "Content-type: text/html\n\n";
 	print qq~<html><head><title>Erro</title>
 			<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
-			</head><body bgcolor="#FFFFFF"><p>&nbsp;</p><table width="600" border="0" cellspacing="0" cellpadding="0" align="center"><tr><td colspan="3"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Membros: 
+			</head><body bgcolor="#FFFFFF"><p>&nbsp;</p><table width="600" border="0" cellspacing="0" cellpadding="0" align="center"><tr><td colspan="3"><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b>Controller: 
 			<font size="2" face="Verdana, Arial, Helvetica, sans-serif"><b><font color="#990000">Erro de </font></b></font><font color="#990000">Script </font></b></font></td></tr><tr> <td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td></tr><tr> 
-			<td colspan="3"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Membros n&atilde;o pode ser rodado pelos seguintes erros:</font></td>
+			<td colspan="3"><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Controller n&atilde;o pode ser rodado pelos seguintes erros:</font></td>
 			</tr><tr><td colspan="3" height="40"><font face="Courier New, Courier, mono" size="2"><br>$error<br></td></tr></table><p align="center">&nbsp;</p></body></html>
 			~;
 	exit;
