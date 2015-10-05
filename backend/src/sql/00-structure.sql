@@ -1024,7 +1024,7 @@ DROP TABLE IF EXISTS `servidores`;
 /*!40101 SET character_set_client = utf8 */;
 CREATE TABLE `servidores` (
   `id` smallint(5) unsigned NOT NULL auto_increment,
-  `nome` varchar(10) NOT NULL default '',
+  `nome` varchar(25) NOT NULL default '',
   `host` varchar(255) default NULL,
   `ip` varchar(15) default NULL,
   `port` varchar(6) default NULL,
@@ -1571,7 +1571,6 @@ DROP TABLE IF EXISTS `v3_servicos`;
 /*!50001 DROP TABLE `v1_ccinfo`*/;
 /*!50001 DROP VIEW IF EXISTS `v1_ccinfo`*/;
 /*!50001 CREATE ALGORITHM=UNDEFINED */
-/*!50013 DEFINER=`is4web_suporte`@`%` SQL SECURITY DEFINER */
 /*!50001 VIEW `v1_ccinfo` AS select `cc_info`.`id` AS `id`,`cc_info`.`username` AS `username`,`cc_info`.`name` AS `name`,`cc_info`.`first` AS `first`,`cc_info`.`last` AS `last`,`cc_info`.`ccn` AS `ccn`,`cc_info`.`exp` AS `exp`,`cc_info`.`cvv2` AS `cvv2`,`cc_info`.`active` AS `active`,`cc_info`.`tarifa` AS `tarifa`,`tarifas`.`tipo` AS `tipo` from (`cc_info` left join `tarifas` on((`cc_info`.`tarifa` = `tarifas`.`id`))) */;
 
 --
@@ -1581,7 +1580,6 @@ DROP TABLE IF EXISTS `v3_servicos`;
 /*!50001 DROP TABLE `v1_invoices`*/;
 /*!50001 DROP VIEW IF EXISTS `v1_invoices`*/;
 /*!50001 CREATE ALGORITHM=UNDEFINED */
-/*!50013 DEFINER=`root`@`localhost` SQL SECURITY DEFINER */
 /*!50001 VIEW `v1_invoices` AS select `invoices`.`id` AS `id`,`invoices`.`username` AS `username`,`invoices`.`status` AS `status`,`invoices`.`nome` AS `nome`,`invoices`.`data_envio` AS `data_envio`,`invoices`.`data_vencido` AS `data_vencido`,`invoices`.`data_vencimento` AS `data_vencimento`,`invoices`.`data_quitado` AS `data_quitado`,`invoices`.`envios` AS `envios`,`invoices`.`referencia` AS `referencia`,`invoices`.`services` AS `services`,`invoices`.`valor` AS `valor`,`invoices`.`valor_pago` AS `valor_pago`,`invoices`.`imp` AS `imp`,`cc`.`nome` AS `conta`,`tarifas`.`tipo` AS `tarifa`,`invoices`.`parcelas` AS `parcelas`,`invoices`.`parcelado` AS `parcelado`,`invoices`.`nossonumero` AS `nossonumero` from ((`invoices` left join `tarifas` on((`tarifas`.`id` = `invoices`.`tarifa`))) left join `cc` on((`cc`.`id` = `invoices`.`conta`))) */;
 
 --
@@ -1591,7 +1589,6 @@ DROP TABLE IF EXISTS `v3_servicos`;
 /*!50001 DROP TABLE `v1_planos`*/;
 /*!50001 DROP VIEW IF EXISTS `v1_planos`*/;
 /*!50001 CREATE ALGORITHM=UNDEFINED */
-/*!50013 DEFINER=`root`@`localhost` SQL SECURITY DEFINER */
 /*!50001 VIEW `v1_planos` AS select `planos`.`servicos` AS `servicos`,`planos`.`level` AS `level`,`planos`.`plataforma` AS `plataforma`,`planos`.`nome` AS `nome`,`planos`.`tipo` AS `tipo`,`planos`.`descricao` AS `descricao`,`planos`.`campos` AS `campos`,`planos`.`setup` AS `setup`,`planos`.`valor` AS `valor`,`planos`.`valor_tipo` AS `valor_tipo`,`planos`.`auto` AS `auto`,`planos`.`pagamentos` AS `pagamentos`,`planos`.`alert` AS `alert`,(select `servidores`.`nome` AS `nome` from `servidores` where (`servidores`.`id` = `planos`.`pservidor`)) AS `pservidor`,`planos_modules`.`modulo` AS `modulo` from (`planos` left join `planos_modules` on((`planos`.`servicos` = `planos_modules`.`plano`))) */;
 
 --
@@ -1601,7 +1598,6 @@ DROP TABLE IF EXISTS `v3_servicos`;
 /*!50001 DROP TABLE `v1_servicos`*/;
 /*!50001 DROP VIEW IF EXISTS `v1_servicos`*/;
 /*!50001 CREATE ALGORITHM=UNDEFINED */
-/*!50013 DEFINER=`root`@`localhost` SQL SECURITY DEFINER */
 /*!50001 VIEW `v1_servicos` AS select `servicos`.`id` AS `id`,`servicos`.`servicos` AS `plano`,`servicos`.`username` AS `username`,`servicos`.`dominio` AS `dominio`,`servicos`.`status` AS `status`,`servicos`.`action` AS `action`,`servicos`.`inicio` AS `inicio`,`servicos`.`fim` AS `fim`,`servicos`.`vencimento` AS `vencimento`,`servicos`.`proximo` AS `proximo`,(select `servidores`.`nome` AS `nome` from `servidores` where (`servidores`.`id` = `servicos`.`servidor`)) AS `servidor`,`servicos`.`useracc` AS `useracc`,`planos`.`nome` AS `nome`,`planos`.`descricao` AS `descricao`,`planos`.`tipo` AS `tipo`,`planos`.`plataforma` AS `plataforma`,`pagamento`.`nome` AS `pagamento`,`planos`.`setup` AS `setup`,`planos`.`valor` AS `valor`,`planos`.`valor_tipo` AS `valor_tipo`,`servicos`.`desconto` AS `desconto`,`servicos`.`invoice` AS `invoice`,`servicos`.`envios` AS `envios`,`servicos`.`def` AS `def`,`pagamento`.`primeira` AS `primeira`,`pagamento`.`intervalo` AS `intervalo`,`pagamento`.`parcelas` AS `parcelas` from ((`servicos` join `planos` on((`servicos`.`servicos` = `planos`.`servicos`))) join `pagamento` on((`servicos`.`pg` = `pagamento`.`id`))) */;
 
 --
@@ -1611,7 +1607,6 @@ DROP TABLE IF EXISTS `v3_servicos`;
 /*!50001 DROP TABLE `v2_servicos`*/;
 /*!50001 DROP VIEW IF EXISTS `v2_servicos`*/;
 /*!50001 CREATE ALGORITHM=UNDEFINED */
-/*!50013 DEFINER=`is4web_suporte`@`%` SQL SECURITY DEFINER */
 /*!50001 VIEW `v2_servicos` AS select `servicos`.`id` AS `id`,`servicos`.`username` AS `username`,`servicos`.`dominio` AS `dominio`,`servicos`.`servicos` AS `servicos`,`servicos`.`status` AS `status`,`servicos`.`inicio` AS `inicio`,`servicos`.`fim` AS `fim`,`servicos`.`vencimento` AS `vencimento`,`servicos`.`proximo` AS `proximo`,`servicos`.`servidor` AS `servidor`,`servicos`.`dados` AS `dados`,`servicos`.`useracc` AS `useracc`,`servicos`.`pg` AS `pg`,`servicos`.`envios` AS `envios`,`servicos`.`def` AS `def`,`servicos`.`action` AS `action`,`servicos`.`invoice` AS `invoice`,`servicos`.`pagos` AS `pagos`,`servicos`.`desconto` AS `desconto`,`servicos`.`lock` AS `lock`,`servicos`.`parcelas` AS `parcelas`,`pagamento`.`intervalo` AS `intervalo`,`planos`.`tipo` AS `tipo`,(case `planos`.`valor_tipo` when _utf8'M' then 30 when _utf8'A' then 360 else 1 end) AS `valor_tipo`,((`planos`.`valor` * (`pagamento`.`intervalo` / (case `planos`.`valor_tipo` when _utf8'M' then 30 when _utf8'A' then 360 else 1 end))) - if((`servicos`.`desconto` > 0),ifnull(`servicos`.`desconto`,0),ifnull(`descontos`.`valor`,0))) AS `parcela` from (((`servicos` join `planos` on((`servicos`.`servicos` = `planos`.`servicos`))) left join `descontos` on(((`servicos`.`servicos` = `descontos`.`plano`) and (`servicos`.`pg` = `descontos`.`pg`)))) left join `pagamento` on((`servicos`.`pg` = `pagamento`.`id`))) having (`parcela` >= 0.01) */;
 
 --
@@ -1621,7 +1616,6 @@ DROP TABLE IF EXISTS `v3_servicos`;
 /*!50001 DROP TABLE `v3_servicos`*/;
 /*!50001 DROP VIEW IF EXISTS `v3_servicos`*/;
 /*!50001 CREATE ALGORITHM=UNDEFINED */
-/*!50013 DEFINER=`root`@`localhost` SQL SECURITY DEFINER */
 /*!50001 VIEW `v3_servicos` AS select `servicos`.`id` AS `id`,`servicos`.`username` AS `username`,`servicos`.`dominio` AS `dominio`,`planos`.`tipo` AS `tipo`,`planos`.`plataforma` AS `plataforma`,`planos`.`servicos` AS `plano`,`planos`.`nome` AS `plano_nome`,`servicos`.`status` AS `status`,`servicos`.`inicio` AS `inicio`,`servicos`.`fim` AS `fim`,`servicos`.`vencimento` AS `vencimento`,`servicos`.`proximo` AS `proximo`,`servidores`.`id` AS `servidor`,`servidores`.`nome` AS `servidor_nome`,`servicos`.`dados` AS `dados`,`servicos`.`useracc` AS `useracc`,`pagamento`.`id` AS `pg`,`pagamento`.`nome` AS `pg_nome`,`servicos`.`envios` AS `envios`,`servicos`.`def` AS `def`,`servicos`.`action` AS `action`,`servicos`.`invoice` AS `invoice`,`servicos`.`pagos` AS `pagos`,`servicos`.`desconto` AS `desconto`,`servicos`.`lock` AS `lock`,`servicos`.`parcelas` AS `parcelas` from (((`servicos` join `planos` on((`servicos`.`servicos` = `planos`.`servicos`))) join `pagamento` on((`servicos`.`pg` = `pagamento`.`id`))) left join `servidores` on((`servidores`.`id` = `servicos`.`servidor`))) */;
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 

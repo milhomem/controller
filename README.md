@@ -58,8 +58,7 @@ O que precisa para funcionar?
 
 ```bash
 curl -L http://cpanmin.us | perl - App::cpanminus
-cpanm Carton
-carton install
+cpanm --notest --installdeps backend/
 ```
 
 #####Interface Admin
@@ -67,13 +66,28 @@ carton install
 
 > Suporte a Windows, Linux e MacOS
 
-#####Interface para Clientes
+#####Interface web para Clientes
 - Idem Backend.
 
 Instalação
 ------------
 
-TODO
+#####Usando [Docker][13] para backend e interface de clientes
+
+Substituir o `http://localhost:8080` pelo endereço de dns público acessível ao seu docker e execute:
+
+```bash
+cd backend/
+BASE_URL=http://localhost:8080 docker-compose up
+```
+
+> Se preferir trocar as portas expostas edite o arquivo `backend/docker-compose.yml`
+
+Recomendo a configuração com SSL para garantir a segurança dos seus dados:
+- Crie o arquivo `backend/docker/server.key` com o conteúdo de sua chave privada
+- Crie o arquivo `backend/docker/server.crt` com o conteúdo de seu certificado
+- Se necessário troque o conteúdo do CA Bundle em `backend/docker/ca-bundle.crt`
+- Execute o comando acima trocando o protocolo `http` por `https`
 
 Documentação
 -------------
@@ -86,7 +100,7 @@ Contribua
 
 Controller agora é um projeto open source e meu desejo é que seja mantido pela comunidade. 
 
-Se você quiser contribuir mande um Pull Request.
+Se você quiser contribuir mande um Pull Request ou solicite acesso para ajudar a manter o projeto.
 
 Se tiver problemas e não souber solucionar abre uma issue.
 
@@ -105,3 +119,4 @@ milhomem at [is4web.com][12]
 [10]: https://www.mozilla.org/en-US/firefox/new/
 [11]: http://www.builtinperl.com/
 [12]: http://is4web.com.br/
+[13]: https://docs.docker.com/installation/

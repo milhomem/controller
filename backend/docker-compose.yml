@@ -1,0 +1,25 @@
+db:
+  container_name: controller_db
+  image: mysql:latest
+  environment:
+    MYSQL_DATABASE: controller
+    MYSQL_USER: mysql
+    MYSQL_PASSWORD: mysql
+    MYSQL_ROOT_PASSWORD: root
+  volumes:
+    - /mysql:/var/lib/mysql
+    - ./src/sql:/docker-entrypoint-initdb.d
+
+web:
+  container_name: controller_web
+  build: .
+  ports:
+    - "8080:80"
+    - "8443:443"
+  links:
+    - db
+  environment:
+    - BASE_URL
+  volumes:
+    - ./docker/ssl:/etc/httpd/ssl
+    - /var/log/http/controller:/var/log/httpd

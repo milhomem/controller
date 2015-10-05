@@ -119,10 +119,10 @@ INSERT INTO `settings` (`setting`,`value`) VALUES ('access_view','1');
 INSERT INTO `settings` (`setting`,`value`) VALUES ('adminemail','Admin <noreply@admin.tld>');
 INSERT INTO `settings` (`setting`,`value`) VALUES ('altplan','5');
 INSERT INTO `settings` (`setting`,`value`) VALUES ('avgtime','2005-10-29');
-INSERT INTO `settings` (`setting`,`value`) VALUES ('baseurl','http://{uri}/sistema');
+INSERT INTO `settings` (`setting`,`value`) VALUES ('baseurl','http://{uri}');
 INSERT INTO `settings` (`setting`,`value`) VALUES ('cc','1');
 INSERT INTO `settings` (`setting`,`value`) VALUES ('contas','novas@contas.tld');
-INSERT INTO `settings` (`setting`,`value`) VALUES ('data','{path}/sistema');
+INSERT INTO `settings` (`setting`,`value`) VALUES ('data','/var/www/html/sistema');
 INSERT INTO `settings` (`setting`,`value`) VALUES ('dias_antes','7');
 INSERT INTO `settings` (`setting`,`value`) VALUES ('em_footer','');
 INSERT INTO `settings` (`setting`,`value`) VALUES ('em_header','');
@@ -177,7 +177,7 @@ INSERT INTO `settings` (`setting`,`value`) VALUES ('pri5','9999FF');
 INSERT INTO `settings` (`setting`,`value`) VALUES ('auto_renew','0');
 INSERT INTO `settings` (`setting`,`value`) VALUES ('user_timeout','15');
 INSERT INTO `settings` (`setting`,`value`) VALUES ('admin_timeout','1440');
-INSERT INTO `settings` (`setting`,`value`) VALUES ('trustedkey','');
+INSERT INTO `settings` (`setting`,`value`) VALUES ('trustedkey',MD5(RAND()));
 INSERT INTO `settings` (`setting`,`value`) VALUES ('invoices','0');
 INSERT INTO `settings` (`setting`,`value`) VALUES ('alertuser','1');
 INSERT INTO `settings` (`setting`,`value`) VALUES ('WarnReve','4-5-9-10-16-17');
@@ -232,7 +232,7 @@ INSERT INTO `settings` (`setting`,`value`) VALUES ('bcc_suspendedf','0');
 INSERT INTO `settings` (`setting`,`value`) VALUES ('bcc_removed','0');
 INSERT INTO `settings` (`setting`,`value`) VALUES ('bcc_renewed','0');
 INSERT INTO `settings` (`setting`,`value`) VALUES ('epreg_old','{X-%d}');
-INSERT INTO `settings` (`setting`,`value`) VALUES ('app','{path}/app');
+INSERT INTO `settings` (`setting`,`value`) VALUES ('app','/var/www/html/app');
 INSERT INTO `settings` (`setting`,`value`) VALUES ('max_mails_per_connection','10');
 INSERT INTO `settings` (`setting`,`value`) VALUES ('resellone_host','https://resellers.resellone.net');
 INSERT INTO `settings` (`setting`,`value`) VALUES ('resellone_port','52443');
@@ -270,7 +270,7 @@ INSERT INTO `settings` (`setting`,`value`) VALUES ('crypt','(\"a\",\"11\",\"b\",
 INSERT INTO `settings` (`setting`,`value`) VALUES ('dias_prorrogado','2');
 INSERT INTO `settings` (`setting`,`value`) VALUES ('creditcard_status','2');
 INSERT INTO `settings` (`setting`,`value`) VALUES ('allowed_uris','site1.com,site2.com');
-INSERT INTO `settings` (`setting`, `value`) VALUES ('users_limit', '0');
+INSERT INTO `settings` (`setting`, `value`) VALUES ('users_limit', '99999');
 INSERT INTO `settings` (`setting`, `value`) VALUES ('paypal_user', '');
 INSERT INTO `settings` (`setting`, `value`) VALUES ('paypal_pass', '');
 INSERT INTO `settings` (`setting`, `value`) VALUES ('paypal_sign','');
@@ -289,6 +289,7 @@ INSERT INTO `settings` (`setting`, `value`) VALUES ('autoloadlist', '1');
 INSERT INTO `settings` (`setting`, `value`) VALUES ('search_min', '3');
 INSERT INTO `settings` (`setting`, `value`) VALUES ('search_limit', '0');
 INSERT INTO `settings` (`setting`, `value`) VALUES ('hidecolumnpicker', '0');
+INSERT INTO `settings` (`setting`, `value`) VALUES ('home', 'http://www.is4web.com');
 
 UPDATE `settings` SET `value`='[CTRL Ticket - %d] ' WHERE `setting`='epre' LIMIT 1;
 UPDATE `settings` SET `value`='1.0' WHERE `setting`='version' LIMIT 1;
@@ -365,10 +366,10 @@ INSERT INTO `tarifas` (`tipo`,  `modo`,  `modulo`,  `tplIndex`,  `autoquitar`,  
 # Dumping data for table skin
 #
 
-INSERT INTO `skins` VALUES (5,'data_tpl','{path}/app/interfaces/default','default');
-INSERT INTO `skins` VALUES (6,'imgbase','http://{url}/sistema/interfaces/default/images','default');
+INSERT INTO `skins` VALUES (5,'data_tpl','/var/www/html/app/interfaces/default','default');
+INSERT INTO `skins` VALUES (6,'imgbase','http://{url}/interfaces/default/images','default');
 INSERT INTO `skins` VALUES (7,'logo_url','http://demo.is4web.com.br/logo.gif','default');
-INSERT INTO `skins` VALUES (8,'url_tpl','http://{url}/sistema/interfaces/default','default');
+INSERT INTO `skins` VALUES (8,'url_tpl','http://{url}/interfaces/default','default');
 INSERT INTO `skins` VALUES (10,'ajax','0','default');
 
 #MUDAR TABELA SKIN para DEFAULT
