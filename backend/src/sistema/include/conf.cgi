@@ -111,7 +111,6 @@ require "include/lib/cpanel.cgi";
 require "include/lib/helm.cgi";
 require "include/lib/registroBR.cgi" if !$WIN;
 require "include/lib/sms.cgi";
-require "fckeditor/fckeditor.pl";
 
 sub date {
 	my $z;

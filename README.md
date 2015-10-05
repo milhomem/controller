@@ -57,7 +57,9 @@ O que precisa para funcionar?
 - Módulos Perl
 
 ```bash
-perl src/backend/sistema/modulos.cgi
+curl -L http://cpanmin.us | perl - App::cpanminus
+cpanm Carton
+carton install
 ```
 
 #####Interface Admin
