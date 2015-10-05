@@ -49,7 +49,7 @@ sub dvagconta {
 	my $self = shift;
 	my $var_agencia = substr('0000'.$self->account('agencia'),-4);
 	my $var_conta = substr('000000'.$self->account('conta'),-6);	
-	return $self->calcdig10($var_agencia . int $var_conta); #TODO se tiver o manual algum dia verificar se ta certo.
+	return $self->calcdig10($var_agencia . int $var_conta);
 }
 
 sub cod_cliente {

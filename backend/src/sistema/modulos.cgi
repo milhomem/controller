@@ -18,7 +18,6 @@ my @mods = (
 				'DBI',
 				'CGI',
 				'MD5',
-				'GD::Graph',
 				'DBD::mysql',
 #				'DBD::mysqlPP',
 				'HTML::Entities',
