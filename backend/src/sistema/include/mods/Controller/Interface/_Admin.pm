@@ -5057,47 +5057,46 @@ sub logmail_send {
 	my $tos = $self->param('to');
 	my $subject = $self->param('subject');
 	my $body = $self->param('body');	
-		$self->logmailid($logmailid);
-		
-		my $newmail = 0;
-		if ($logmailid != -9999) {
-			$user = $self->logmail('user');		
-			$from ||= $self->logmail('from');
-			$tos ||= $self->logmail('to');
-			$subject ||= $self->logmail('subject');
-			$body ||= $self->logmail('body');
-		}
-		
-		my $to = join ',', grep { $self->is_valid_email($_) } (split ',', $tos);
-		$self->set_error($self->lang(3,'logmail_send')) unless $from && $to && $subject && $body; #$user && 
-		local $Controller::SWITCH{skip_logmail} = 1;
-		my $sent;
-		unless ($self->error) {
-			$sent = $user > 0 
-					? $self->email( User => $user, To => $to, From => $from, Subject => $subject, Body => $body)
-					: $self->email( To => $to, From => $from, Subject => $subject, Body => $body)
-		}
-					
-		{
-			local $Controller::SWITCH{skip_logmail} = $sent == 1 ? 0 : 1;
-			#log_mail
-			my $newid = $self->log_mail($user,$from,$to,$subject,$body,$self->error);
-			
-			unless ($user) {		
-				$self->log(
-						'cmd' => 'SEND',
-						'table' => 'log_email',
-						'value' => '',
-						'byuser' => $self->{cookname},
-						'debug' =>  $self->lang(95,$to,$subject,$body)
-						) if $sent == 1;
-			}
-			
-			my $item = $self->parse_var($sent,'/email');
-			$item->setAttribute('id',$newid > 0 ? $newid : $logmailid);
-		}
+	$self->logmailid($logmailid);
+	
+	my $newmail = 0;
+	if ($logmailid != -9999) {
+		$user = $self->logmail('user');		
+		$from ||= $self->logmail('from');
+		$tos ||= $self->logmail('to');
+		$subject ||= $self->logmail('subject');
+		$body ||= $self->logmail('body');
 	}
-
+	
+	my $to = join ',', grep { $self->is_valid_email($_) } (split ',', $tos);
+	$self->set_error($self->lang(3,'logmail_send')) unless $from && $to && $subject && $body; #$user && 
+	local $Controller::SWITCH{skip_logmail} = 1;
+	my $sent;
+	unless ($self->error) {
+		$sent = $user > 0 
+				? $self->email( User => $user, To => $to, From => $from, Subject => $subject, Body => $body)
+				: $self->email( To => $to, From => $from, Subject => $subject, Body => $body)
+	}
+				
+	{
+		local $Controller::SWITCH{skip_logmail} = $sent == 1 ? 0 : 1;
+		#log_mail
+		my $newid = $self->log_mail($user,$from,$to,$subject,$body,$self->error);
+		
+		unless ($user) {		
+			$self->log(
+					'cmd' => 'SEND',
+					'table' => 'log_email',
+					'value' => '',
+					'byuser' => $self->{cookname},
+					'debug' =>  $self->lang(95,$to,$subject,$body)
+					) if $sent == 1;
+		}
+		
+		my $item = $self->parse_var($sent,'/email');
+		$item->setAttribute('id',$newid > 0 ? $newid : $logmailid);
+	}
+	
 	$self->parse('/logmail_send');
 }
 
