@@ -66,7 +66,7 @@ sub request {
 	my %request = %{Controller::XML->xml2perl($envelope)};
 	
 	#Header
-	if (keys %{ $request{'env:Header'} }) {
+	if (keys %{ $request{'env:Header'}[0] }) {
 		#login info
 		$interface->{cookname} = $request{'env:Header'}[0]{'cookname'}[0]{'content'};
 		$interface->{cookcert} = $request{'env:Header'}[0]{'cookcert'}[0]{'content'};
@@ -78,7 +78,7 @@ sub request {
 	#Body
 	foreach my $cmd (keys %{ $request{'env:Body'}[0] }) {
 		#set params
-		map { $interface->param($_, defined $request{'env:Body'}[0]{$cmd}[0]{$_}[0]{'content'} ? $request{'env:Body'}[0]{$cmd}[0]{$_}[0]{'content'} : exists $request{'env:Body'}[0]{$cmd}[0]{$_} ? '' : undef ) } keys %{$request{'env:Body'}[0]{$cmd}};
+		map { $interface->param($_, defined $request{'env:Body'}[0]{$cmd}[0]{$_}[0]{'content'} ? $request{'env:Body'}[0]{$cmd}[0]{$_}[0]{'content'} : exists $request{'env:Body'}[0]{$cmd}[0]{$_} ? '' : undef ) } keys %{$request{'env:Body'}[0]{$cmd}[0]};
 		#response
 		my $doc = prepare_response($self,$cmd);
 		#call
@@ -91,7 +91,7 @@ sub request {
 			$doc->createElement('reason', $response, $error);
 		}	
 		#clean params
-		map { $interface->param($_,undef) } keys %{$request{'env:Body'}[0]{$cmd}};	
+		map { $interface->param($_,undef) } keys %{$request{'env:Body'}[0]{$cmd}[0]};	
 		#answer
 		response($self,$doc);	
 	}
